@@ -1,0 +1,10 @@
+.cache/
+.local/
+__pycache__/
+*.pyc
+venv/.cache/
+.env
+__pycache__/
+*.pyc
+venv/
+.env
