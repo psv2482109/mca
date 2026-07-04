@@ -16,3 +16,191 @@
 2026-07-04 08:41:52.548 [info] [127.0.0.1][555bd47a][ExtensionHostConnection] <1554> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
 
 2026-07-04 08:46:52.046 [info] [127.0.0.1][dd496ecf][ExtensionHostConnection] <1522> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:20:52.067 [info] [127.0.0.1][8e973f85][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:20:52.742 [info] [127.0.0.1][555bd47a][ExtensionHostConnection] <1554> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:20:54.189 [info] [127.0.0.1][426ca505][ManagementConnection] New connection established.
+2026-07-04 09:20:54.355 [info] [127.0.0.1][dad673be][ExtensionHostConnection] New connection established.
+2026-07-04 09:20:54.363 [info] [127.0.0.1][dad673be][ExtensionHostConnection] <3762> Launched Extension Host Process.
+2026-07-04 09:20:54.913 [info] [127.0.0.1][dad673be][ExtensionHostConnection] <3762> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:21:04.408 [info] [127.0.0.1][426ca505][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:21:04.480 [info] [127.0.0.1][dad673be][ExtensionHostConnection] <3762> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:21:06.479 [info] [127.0.0.1][1efc8cc6][ManagementConnection] New connection established.
+2026-07-04 09:21:06.677 [info] [127.0.0.1][efb5f4cb][ExtensionHostConnection] New connection established.
+2026-07-04 09:21:06.689 [info] [127.0.0.1][efb5f4cb][ExtensionHostConnection] <3796> Launched Extension Host Process.
+2026-07-04 09:21:07.246 [info] [127.0.0.1][efb5f4cb][ExtensionHostConnection] <3796> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:23:16.982 [info] [127.0.0.1][1efc8cc6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:23:17.640 [info] [127.0.0.1][efb5f4cb][ExtensionHostConnection] <3796> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:23:36.384 [info] [127.0.0.1][157ac3ff][ManagementConnection] New connection established.
+2026-07-04 09:23:36.759 [info] [127.0.0.1][706ad33c][ExtensionHostConnection] New connection established.
+2026-07-04 09:23:36.842 [info] [127.0.0.1][706ad33c][ExtensionHostConnection] <5238> Launched Extension Host Process.
+2026-07-04 09:23:37.377 [info] [127.0.0.1][706ad33c][ExtensionHostConnection] <5238> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:24:18.086 [info] [127.0.0.1][157ac3ff][ManagementConnection] The client has reconnected.
+2026-07-04 09:24:23.732 [info] [127.0.0.1][706ad33c][ExtensionHostConnection] The client has reconnected.
+2026-07-04 09:26:48.004 [info] [127.0.0.1][157ac3ff][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:26:49.354 [info] [127.0.0.1][706ad33c][ExtensionHostConnection] <5238> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:26:53.609 [info] [127.0.0.1][8a4ebe35][ManagementConnection] New connection established.
+2026-07-04 09:26:55.196 [info] [127.0.0.1][55a4950f][ExtensionHostConnection] New connection established.
+2026-07-04 09:26:55.210 [info] [127.0.0.1][55a4950f][ExtensionHostConnection] <5830> Launched Extension Host Process.
+2026-07-04 09:26:55.834 [info] [127.0.0.1][55a4950f][ExtensionHostConnection] <5830> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:28:08.721 [info] [127.0.0.1][8a4ebe35][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:32:56.203 [info] [127.0.0.1][295dddb3][ManagementConnection] New connection established.
+2026-07-04 09:32:56.204 [info] [127.0.0.1][217e712f][ExtensionHostConnection] New connection established.
+2026-07-04 09:32:56.210 [info] [127.0.0.1][217e712f][ExtensionHostConnection] <5890> Launched Extension Host Process.
+2026-07-04 09:32:56.681 [info] [127.0.0.1][217e712f][ExtensionHostConnection] <5890> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:33:23.182 [info] [127.0.0.1][295dddb3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:33:29.807 [info] [127.0.0.1][de0f5f3b][ManagementConnection] New connection established.
+2026-07-04 09:33:31.187 [info] [127.0.0.1][f16431a4][ExtensionHostConnection] New connection established.
+2026-07-04 09:33:31.352 [info] [127.0.0.1][f16431a4][ExtensionHostConnection] <5927> Launched Extension Host Process.
+2026-07-04 09:33:31.779 [info] [127.0.0.1][f16431a4][ExtensionHostConnection] <5927> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:37:56.552 [info] [127.0.0.1][55a4950f][ExtensionHostConnection] <5830> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:39:42.774 [info] [127.0.0.1][de0f5f3b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:39:42.921 [info] [127.0.0.1][f16431a4][ExtensionHostConnection] <5927> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:39:54.872 [info] [127.0.0.1][a9f8f8c6][ManagementConnection] New connection established.
+2026-07-04 09:39:55.148 [info] [127.0.0.1][421e6377][ExtensionHostConnection] New connection established.
+2026-07-04 09:39:55.155 [info] [127.0.0.1][421e6377][ExtensionHostConnection] <5955> Launched Extension Host Process.
+2026-07-04 09:39:55.565 [info] [127.0.0.1][421e6377][ExtensionHostConnection] <5955> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:40:20.155 [info] [127.0.0.1][0dd40da8][ManagementConnection] New connection established.
+2026-07-04 09:40:20.538 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] New connection established.
+2026-07-04 09:40:20.555 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] <5981> Launched Extension Host Process.
+2026-07-04 09:40:21.048 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] <5981> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:40:37.620 [info] [127.0.0.1][0dd40da8][ManagementConnection] The client has reconnected.
+2026-07-04 09:40:38.522 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] The client has reconnected.
+2026-07-04 09:40:47.300 [info] [127.0.0.1][a9f8f8c6][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-07-04 09:41:28.061 [info] [127.0.0.1][a9f8f8c6][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-07-04 09:41:28.062 [info] [127.0.0.1][6c84772a][ManagementConnection] New connection established.
+2026-07-04 09:41:29.240 [info] [127.0.0.1][607bb190][ExtensionHostConnection] New connection established.
+2026-07-04 09:41:29.251 [info] [127.0.0.1][607bb190][ExtensionHostConnection] <6223> Launched Extension Host Process.
+2026-07-04 09:41:29.676 [info] [127.0.0.1][607bb190][ExtensionHostConnection] <6223> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:41:31.079 [warning] RequestStore#acceptReply was called without receiving a matching request 727
+2026-07-04 09:41:31.079 [warning] RequestStore#acceptReply was called without receiving a matching request 728
+2026-07-04 09:41:31.079 [warning] RequestStore#acceptReply was called without receiving a matching request 729
+2026-07-04 09:41:31.079 [warning] RequestStore#acceptReply was called without receiving a matching request 730
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 731
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 732
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 733
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 734
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 735
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 736
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 737
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 738
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 739
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 740
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 741
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 742
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 743
+2026-07-04 09:41:31.080 [warning] RequestStore#acceptReply was called without receiving a matching request 744
+2026-07-04 09:41:31.081 [warning] RequestStore#acceptReply was called without receiving a matching request 745
+2026-07-04 09:41:31.081 [warning] RequestStore#acceptReply was called without receiving a matching request 746
+2026-07-04 09:41:31.081 [warning] RequestStore#acceptReply was called without receiving a matching request 747
+2026-07-04 09:41:31.081 [warning] RequestStore#acceptReply was called without receiving a matching request 748
+2026-07-04 09:42:32.082 [info] [127.0.0.1][0dd40da8][ManagementConnection] The client has reconnected.
+2026-07-04 09:42:33.987 [info] [127.0.0.1][6c84772a][ManagementConnection] The client has reconnected.
+2026-07-04 09:42:34.323 [info] [127.0.0.1][607bb190][ExtensionHostConnection] The client has reconnected.
+2026-07-04 09:42:38.199 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] The client has reconnected.
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 749
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 750
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 751
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 752
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 753
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 754
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 755
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 756
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 757
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 758
+2026-07-04 09:42:40.192 [warning] RequestStore#acceptReply was called without receiving a matching request 759
+2026-07-04 09:43:31.053 [info] [127.0.0.1][6c84772a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:43:31.090 [info] [127.0.0.1][607bb190][ExtensionHostConnection] <6223> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:44:17.523 [info] [127.0.0.1][abb91a61][ManagementConnection] New connection established.
+2026-07-04 09:44:17.723 [info] [127.0.0.1][8f91a26b][ExtensionHostConnection] New connection established.
+2026-07-04 09:44:17.732 [info] [127.0.0.1][8f91a26b][ExtensionHostConnection] <6679> Launched Extension Host Process.
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 760
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 761
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 762
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 763
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 764
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 765
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 766
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 767
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 768
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 769
+2026-07-04 09:44:18.131 [warning] RequestStore#acceptReply was called without receiving a matching request 770
+2026-07-04 09:44:18.454 [info] [127.0.0.1][8f91a26b][ExtensionHostConnection] <6679> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 771
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 772
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 773
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 774
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 775
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 776
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 777
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 778
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 779
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 780
+2026-07-04 09:44:23.001 [warning] RequestStore#acceptReply was called without receiving a matching request 781
+2026-07-04 09:44:23.408 [warning] RequestStore#acceptReply was called without receiving a matching request 782
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 783
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 784
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 785
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 786
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 787
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 788
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 789
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 790
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 791
+2026-07-04 09:44:23.409 [warning] RequestStore#acceptReply was called without receiving a matching request 792
+2026-07-04 09:44:26.840 [warning] RequestStore#acceptReply was called without receiving a matching request 793
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 794
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 795
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 796
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 797
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 798
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 799
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 800
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 801
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 802
+2026-07-04 09:44:26.841 [warning] RequestStore#acceptReply was called without receiving a matching request 803
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 804
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 805
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 806
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 807
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 808
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 809
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 810
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 811
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 812
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 813
+2026-07-04 09:44:28.535 [warning] RequestStore#acceptReply was called without receiving a matching request 814
+2026-07-04 09:44:30.681 [info] [127.0.0.1][abb91a61][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:44:36.303 [info] [127.0.0.1][8f91a26b][ExtensionHostConnection] <6679> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:44:45.246 [info] [127.0.0.1][0dd40da8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:44:45.823 [info] [127.0.0.1][fa65a87f][ExtensionHostConnection] <5981> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:44:55.142 [info] [127.0.0.1][217e712f][ExtensionHostConnection] <5890> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:45:21.221 [info] [127.0.0.1][c0275393][ManagementConnection] New connection established.
+2026-07-04 09:45:21.352 [info] [127.0.0.1][de94d5b5][ExtensionHostConnection] New connection established.
+2026-07-04 09:45:21.359 [info] [127.0.0.1][de94d5b5][ExtensionHostConnection] <6848> Launched Extension Host Process.
+2026-07-04 09:45:22.031 [info] [127.0.0.1][de94d5b5][ExtensionHostConnection] <6848> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:45:34.195 [info] [127.0.0.1][c0275393][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:45:35.384 [info] [127.0.0.1][88141b68][ManagementConnection] New connection established.
+2026-07-04 09:45:35.556 [info] [127.0.0.1][0325c6d7][ExtensionHostConnection] New connection established.
+2026-07-04 09:45:35.566 [info] [127.0.0.1][0325c6d7][ExtensionHostConnection] <7358> Launched Extension Host Process.
+2026-07-04 09:45:36.256 [info] [127.0.0.1][0325c6d7][ExtensionHostConnection] <7358> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-07-04 09:45:40.126 [info] [127.0.0.1][de94d5b5][ExtensionHostConnection] <6848> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:46:28.702 [info] [127.0.0.1][a9f8f8c6][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2026-07-04 09:46:34.898 [info] [127.0.0.1][88141b68][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 09:46:40.689 [info] [127.0.0.1][0325c6d7][ExtensionHostConnection] <7358> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 09:46:58.383 [info] [127.0.0.1][e05ce8f3][ManagementConnection] New connection established.
+2026-07-04 09:46:58.528 [info] [127.0.0.1][6320fabe][ExtensionHostConnection] New connection established.
+2026-07-04 09:46:58.534 [info] [127.0.0.1][6320fabe][ExtensionHostConnection] <8429> Launched Extension Host Process.
+2026-07-04 09:46:59.074 [info] [127.0.0.1][6320fabe][ExtensionHostConnection] <8429> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+

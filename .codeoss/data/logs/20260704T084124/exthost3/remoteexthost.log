@@ -1,0 +1,10 @@
+2026-07-04 09:21:01.151 [info] Extension host with pid 3762 started
+2026-07-04 09:21:01.167 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/5c89bca4/vscode.lock': Lock acquired.
+2026-07-04 09:21:01.779 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-07-04 09:21:01.781 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-07-04 09:21:02.173 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-07-04 09:21:02.507 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-07-04 09:21:02.508 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-07-04 09:21:04.438 [info] Extension host terminating: received terminate message from renderer
+2026-07-04 09:21:04.439 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/5c89bca4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-07-04 09:21:04.457 [info] Extension host with pid 3762 exiting with code 0

@@ -1,0 +1,3 @@
+2026-07-04 09:42:41.008 [info] Extension host with pid 6223 started
+2026-07-04 09:43:31.077 [info] Extension host terminating: received terminate message from renderer
+2026-07-04 09:43:31.079 [info] Extension host with pid 6223 exiting with code 0

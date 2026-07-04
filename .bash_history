@@ -130,3 +130,12 @@ git branch -M main
 git remote add origin https://github.com/psv2482109/add.git
 git push -u origin main
 git status
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/psv2482109/add.git
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+/usr/bin/python /home/psv2482109/add.py
+git config --global user.name "psv2482109"
+git config --global user.email "psv2482109@gmail.com"
+git init

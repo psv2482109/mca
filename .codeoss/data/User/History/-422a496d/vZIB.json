@@ -1,0 +1,5 @@
+{
+    "window.menuBarVisibility": "classic",
+    "http.proxySupport": "off",
+    "http.systemCertificatesNode": true
+}

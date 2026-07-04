@@ -1,0 +1,27 @@
+2026-07-04 09:44:29.486 [info] Starting Environment refresh
+2026-07-04 09:44:29.486 [info] Searching for interpreters in posix paths locator
+2026-07-04 09:44:29.495 [info] Searching for pyenv environments
+2026-07-04 09:44:29.495 [info] Searching for conda environments
+2026-07-04 09:44:29.496 [info] Searching for global virtual environments
+2026-07-04 09:44:29.496 [info] Searching for custom virtual environments
+2026-07-04 09:44:29.567 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 09:44:29.568 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 09:44:29.573 [info] pyenv is not installed
+2026-07-04 09:44:29.573 [info] Finished searching for pyenv environments: 86 milliseconds
+2026-07-04 09:44:29.573 [info] Finished searching for custom virtual envs: 84 milliseconds
+2026-07-04 09:44:29.583 [info] > conda info --json
+2026-07-04 09:44:29.619 [info] Finished searching for global virtual envs: 130 milliseconds
+2026-07-04 09:44:29.638 [info] Found: /bin/python --> /bin/python3.12
+2026-07-04 09:44:29.647 [info] Found: /bin/python3 --> /bin/python3.12
+2026-07-04 09:44:29.648 [info] Found: /bin/python3.12 --> /bin/python3.12
+2026-07-04 09:44:29.684 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2026-07-04 09:44:29.686 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2026-07-04 09:44:29.686 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2026-07-04 09:44:29.837 [info] Finished searching for interpreters in posix paths locator: 343 milliseconds
+2026-07-04 09:44:29.837 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 09:44:29.885 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 09:44:29.885 [info] Environments refresh paths discovered (event): 400 milliseconds
+2026-07-04 09:44:29.885 [info] Environments refresh paths discovered: 401 milliseconds
+2026-07-04 09:44:29.978 [info] Environments refresh finished (event): 493 milliseconds
+2026-07-04 09:44:29.995 [info] Environment refresh took 511 milliseconds
+2026-07-04 09:44:30.025 [info] Python interpreter path: /bin/python

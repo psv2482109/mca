@@ -1,0 +1,40 @@
+2026-07-04 09:45:40.011 [warning] Dir "/home/psv2482109/.pixi/envs" is not watchable (directory does not exist)
+2026-07-04 09:45:41.939 [info] Starting Environment refresh
+2026-07-04 09:45:43.089 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 09:45:43.119 [info] > hatch env show --json
+2026-07-04 09:45:43.119 [info] cwd: .
+2026-07-04 09:45:43.121 [info] Python interpreter path: /usr/bin/python
+2026-07-04 09:45:43.167 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 09:45:43.173 [info] Environments refresh paths discovered: 1235 milliseconds
+2026-07-04 09:45:43.223 [info] Environments refresh finished (event): 1285 milliseconds
+2026-07-04 09:45:43.226 [info] Environment refresh took 1289 milliseconds
+2026-07-04 09:45:45.330 [info] > conda info --json
+2026-07-04 09:45:45.515 [info] Starting Environment refresh
+2026-07-04 09:45:45.761 [info] Environments refresh finished (event): 245 milliseconds
+2026-07-04 09:45:45.761 [info] Environments refresh paths discovered: 246 milliseconds
+2026-07-04 09:45:45.764 [info] Environment refresh took 249 milliseconds
+2026-07-04 09:45:45.780 [info] > pyenv which python
+2026-07-04 09:45:45.780 [info] cwd: .
+2026-07-04 09:45:51.841 [info] Starting Jedi language server for psv2482109.
+2026-07-04 09:46:03.799 [info] Running installed packages checker:  {
+  id: '/usr/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/usr/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/requirements.txt
+2026-07-04 09:46:03.801 [info] > /usr/bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt

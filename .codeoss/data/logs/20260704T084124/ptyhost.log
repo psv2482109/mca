@@ -1,0 +1,19 @@
+2026-07-04 09:21:09.872 [info] Expanding terminal instance, old id empty-window-2 -> new id undefined
+2026-07-04 09:23:39.491 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 09:24:35.126 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2026-07-04 09:24:35.126 [info] Persistent process reconnection "3"
+2026-07-04 09:24:35.341 [info] Persistent process "3": Replaying 350 chars and 1 size events
+2026-07-04 09:33:31.331 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 09:40:21.620 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 09:41:22.643 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2026-07-04 09:41:22.644 [info] Persistent process reconnection "3"
+2026-07-04 09:41:24.111 [info] Persistent process "3": Replaying 350 chars and 1 size events
+2026-07-04 09:41:29.233 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 09:42:41.375 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2026-07-04 09:42:41.375 [info] Persistent process reconnection "3"
+2026-07-04 09:42:41.468 [info] Persistent process "3": Replaying 350 chars and 1 size events
+2026-07-04 09:44:17.700 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 09:44:24.128 [warning] Persistent process "3": Process had no disconnect runners but was an orphan
+2026-07-04 09:44:24.128 [info] Persistent process reconnection "3"
+2026-07-04 09:44:24.216 [info] Persistent process "3": Replaying 350 chars and 1 size events
+2026-07-04 09:45:21.700 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
