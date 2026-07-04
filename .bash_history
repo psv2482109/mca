@@ -139,3 +139,11 @@ git pull origin main --allow-unrelated-histories
 git config --global user.name "psv2482109"
 git config --global user.email "psv2482109@gmail.com"
 git init
+git add .
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/psv2482109/add.git
+git push -u origin main
+/usr/bin/python /home/psv2482109/add.py
+git init
