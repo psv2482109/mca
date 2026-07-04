@@ -164,3 +164,8 @@ pip3 install scikit-learn
 pip3 install matplotlib
 /usr/bin/python /home/psv2482109/linear.py
 git init
+git add .
+git branch -M main
+git commit -m "first commit"
+git remote set-url origin https://github.com/psv2482109/mca.git
+git init

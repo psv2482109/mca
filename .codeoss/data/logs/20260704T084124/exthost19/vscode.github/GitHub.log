@@ -1,1 +1,2 @@
 2026-07-04 10:16:05.301 [info] Log level: Info
+2026-07-04 10:22:46.684 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for psv2482109/mca/48451af02f3ae87411736d62bbd4d88317dd14d6: TypeError: Cannot read properties of null (reading 'author')
