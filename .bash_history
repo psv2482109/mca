@@ -124,3 +124,9 @@ git config --global user.email "psv2482109@gmail.com"
 git init
 git add README.md
 git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/psv2482109/add.git
+git push -u origin main
+git status
