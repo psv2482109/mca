@@ -61,3 +61,10 @@
 2026-07-04 09:47:22.127 [info] MCP config plugin: MCP config key: mcpServers
 2026-07-04 09:47:22.419 [info] SparkMonitorPlugin: Wrote filter config file with value: true
 2026-07-04 09:47:23.446 [info] Verified that user is logged in to gcloud CLI and ADC.
+2026-07-04 10:18:03.392 [info] Deactivating bigquery
+2026-07-04 10:18:03.392 [info] Deactivating GCS
+2026-07-04 10:18:03.392 [info] Deactivating Databases
+2026-07-04 10:18:03.393 [info] Deactivating Catalog Feature
+2026-07-04 10:18:03.393 [info] Deactivating dataproc
+2026-07-04 10:18:03.393 [info] SparkMonitorPlugin: Deactivating...
+2026-07-04 10:18:03.393 [info] Deactivating settings

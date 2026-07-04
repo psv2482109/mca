@@ -1,0 +1,25 @@
+Starting background process...
+Background process started with PID 15050
+[ERROR] 2026-07-04 10:15:53.608 AM -- Warning: unexpected file /home/psv2482109/.gemini/extensions/extension-enablement.json in extensions directory.
+[INFO] 2026-07-04 10:15:53.612 AM -- Loading extension: vertex (version: 0.2.0)
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.geminiignore, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.aiexclude, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.geminiignore, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.aiexclude, continue without it.
+Ripgrep is not available. Falling back to GrepTool.
+Loading extension: vertex
+Scheduling MCP context refresh...
+Executing MCP context refresh...
+MCP context refresh complete.
+Workspace skills disabled because folder is not trusted.
+Hook registry initialized with 0 hook entries
+Hook system initialized successfully
+[DEBUG] [MemoryDiscovery] deduplication: keeping /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (dev: 2065, ino: 131119)
+[DEBUG] [MemoryDiscovery] Successfully read and processed imports: /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (Length: 55458)
+[STARTUP] StartupProfiler.flush() called with 1 phases
+[STARTUP] Recording metric for phase: discover_tools duration: 4086.5001170000005
+[INFO] 2026-07-04 10:15:58.040 AM -- [Config] Using CCPA Auth:
+[INFO] 2026-07-04 10:15:58.040 AM -- [Config] Attempting COMPUTE_ADC first.
+Failed to load credentials from /home/psv2482109/.gemini/oauth_creds.json: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/oauth_creds.json'
+Attempting to authenticate via metadata server application default credentials.
+Authentication successful.

@@ -1,0 +1,6 @@
+2026-07-04 10:15:19.184 [warning] Dir "/home/psv2482109/.pixi/envs" is not watchable (directory does not exist)
+2026-07-04 10:15:22.406 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 10:15:22.436 [info] > conda info --json
+2026-07-04 10:15:22.440 [info] Python interpreter path: /usr/bin/python
+2026-07-04 10:15:23.085 [info] > pyenv which python
+2026-07-04 10:15:23.085 [info] cwd: .

@@ -1,0 +1,10 @@
+[2026-07-04T10:06:12.141Z] Activating Agent Skill Installer
+[2026-07-04T10:06:12.172Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-07-04T10:06:12.172Z] Profile antigravity-ide is NOT active
+[2026-07-04T10:06:12.172Z] Profile antigravity is NOT active
+[2026-07-04T10:06:12.172Z] Profile jetski is NOT active
+[2026-07-04T10:06:12.172Z] Profile cursor is NOT active
+[2026-07-04T10:06:12.172Z] Profile copilot is NOT active
+[2026-07-04T10:06:12.172Z] Profile gemini-code-assist is active
+[2026-07-04T10:06:16.880Z] Checking skills for Gemini Code Assist in /home/psv2482109/.gemini/skills. Force=false
+[2026-07-04T10:06:16.884Z] Bundle checksum match. Skipping installation.

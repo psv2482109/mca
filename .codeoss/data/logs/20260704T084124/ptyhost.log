@@ -17,3 +17,7 @@
 2026-07-04 09:44:24.128 [info] Persistent process reconnection "3"
 2026-07-04 09:44:24.216 [info] Persistent process "3": Replaying 350 chars and 1 size events
 2026-07-04 09:45:21.700 [info] Expanding terminal instance, old id empty-window-3 -> new id undefined
+2026-07-04 10:13:03.143 [info] Expanding terminal instance, old id 3ebae488-11 -> new id undefined
+2026-07-04 10:15:17.356 [info] Expanding terminal instance, old id 3ebae488-14 -> new id undefined
+2026-07-04 10:15:31.860 [info] Expanding terminal instance, old id empty-window-8 -> new id undefined
+2026-07-04 10:16:01.073 [info] Expanding terminal instance, old id 3ebae488-16 -> new id undefined

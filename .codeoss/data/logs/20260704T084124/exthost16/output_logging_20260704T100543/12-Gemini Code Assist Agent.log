@@ -1,0 +1,28 @@
+Starting background process...
+Background process started with PID 12838
+[INFO] 2026-07-04 10:13:40.919 AM -- [CoderAgentExecutor] Overriding workspace path to: /home/psv2482109
+[ERROR] 2026-07-04 10:13:40.925 AM -- Warning: unexpected file /home/psv2482109/.gemini/extensions/extension-enablement.json in extensions directory.
+[ERROR] 2026-07-04 10:13:40.926 AM -- Warning: unexpected file /home/psv2482109/.gemini/extensions/extension-enablement.json in extensions directory.
+[INFO] 2026-07-04 10:13:40.926 AM -- Loading extension: vertex (version: 0.2.0)
+Ignore file not found: /home/psv2482109/.geminiignore, continue without it.
+Ignore file not found: /home/psv2482109/.aiexclude, continue without it.
+Ignore file not found: /home/psv2482109/.geminiignore, continue without it.
+Ignore file not found: /home/psv2482109/.aiexclude, continue without it.
+Ripgrep is not available. Falling back to GrepTool.
+Loading extension: vertex
+[MCP error] Error during discovery for MCP server 'VertexMcpServer': spawn ${extensionPath}/run.sh ENOENT Error: spawn ${extensionPath}/run.sh ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn ${extensionPath}/run.sh',
+  path: '${extensionPath}/run.sh',
+  spawnargs: []
+}
+Hook registry initialized with 0 hook entries
+Hook system initialized successfully
+[DEBUG] [MemoryDiscovery] Loading environment memory for trusted root: /home/psv2482109 (Stopping at git root: /home/psv2482109)
+[DEBUG] [MemoryDiscovery] Starting upward search from /home/psv2482109 stopping at /home/psv2482109
+[DEBUG] [MemoryDiscovery] deduplication: keeping /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (dev: 2065, ino: 131119)
+[DEBUG] [MemoryDiscovery] Successfully read and processed imports: /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (Length: 55458)
