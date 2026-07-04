@@ -1,0 +1,84 @@
+2026-06-11 10:02:42.005 [warning] Dir "/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.pixi/envs" is not watchable (directory does not exist)
+2026-06-11 10:02:43.348 [info] Starting Environment refresh
+2026-06-11 10:02:43.349 [info] Starting Environment refresh
+2026-06-11 10:02:43.401 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-11 10:02:43.402 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-11 10:02:43.423 [info] > hatch env show --json
+2026-06-11 10:02:43.423 [info] cwd: .
+2026-06-11 10:02:43.449 [info] > conda info --json
+2026-06-11 10:02:43.497 [info] Environments refresh finished (event): 150 milliseconds
+2026-06-11 10:02:43.497 [info] Environments refresh finished (event): 148 milliseconds
+2026-06-11 10:02:43.497 [info] Environments refresh paths discovered: 150 milliseconds
+2026-06-11 10:02:43.498 [info] Environments refresh paths discovered: 148 milliseconds
+2026-06-11 10:02:43.501 [info] Environment refresh took 155 milliseconds
+2026-06-11 10:02:43.502 [info] Environment refresh took 153 milliseconds
+2026-06-11 10:02:43.523 [info] > pyenv which python
+2026-06-11 10:02:43.523 [info] cwd: .
+2026-06-11 10:02:43.554 [info] Python interpreter path: /bin/python
+2026-06-11 10:02:46.454 [info] Starting Jedi language server for add.
+2026-06-11 10:03:51.988 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '/',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/.gemini/extensions/vertex/.git/branches/add/requirements.txt
+2026-06-11 10:03:51.988 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2026-06-11 10:04:02.722 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '/',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/.gemini/extensions/vertex/.git/branches/add/requirements.txt
+2026-06-11 10:04:02.722 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2026-06-11 10:04:05.350 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '/',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/.gemini/extensions/vertex/.git/branches/add/requirements.txt
+2026-06-11 10:04:05.350 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt

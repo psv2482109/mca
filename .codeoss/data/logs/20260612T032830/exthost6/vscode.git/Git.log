@@ -1,0 +1,43 @@
+2026-06-12 04:53:55.714 [info] [main] Log level: Info
+2026-06-12 04:53:55.714 [info] [main] Validating found git in: "git"
+2026-06-12 04:53:55.714 [info] [main] Using git "2.43.0" from "git"
+2026-06-12 04:53:55.714 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-12 04:53:55.714 [info] > git rev-parse --show-toplevel [57ms]
+2026-06-12 04:53:55.714 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [3158ms]
+2026-06-12 04:53:56.633 [info] [Model][openRepository] Opened repository (path): /home/psv2482109
+2026-06-12 04:53:56.633 [info] [Model][openRepository] Opened repository (real path): /home/psv2482109
+2026-06-12 04:53:56.633 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-12 04:53:56.718 [info] > git rev-parse --show-toplevel [52ms]
+2026-06-12 04:53:56.720 [info] > git config --get commit.template [63ms]
+2026-06-12 04:53:56.787 [info] > git rev-parse --show-toplevel [48ms]
+2026-06-12 04:53:56.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [76ms]
+2026-06-12 04:53:56.935 [info] > git rev-parse --show-toplevel [40ms]
+2026-06-12 04:53:57.002 [info] > git status -z -uall [30ms]
+2026-06-12 04:53:57.004 [info] > git rev-parse --show-toplevel [47ms]
+2026-06-12 04:53:57.051 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [53ms]
+2026-06-12 04:53:57.221 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [65ms]
+2026-06-12 04:53:57.239 [info] > git rev-parse --show-toplevel [202ms]
+2026-06-12 04:53:57.760 [info] > git config --get --local branch.main.vscode-merge-base [522ms]
+2026-06-12 04:53:57.761 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-12 04:53:57.773 [info] > git config --get commit.template [598ms]
+2026-06-12 04:53:57.823 [info] > git check-ignore -v -z --stdin [31ms]
+2026-06-12 04:53:57.825 [info] > git reflog main --grep-reflog=branch: Created from *. [52ms]
+2026-06-12 04:53:57.837 [info] > git rev-parse --show-toplevel [112ms]
+2026-06-12 04:53:57.885 [info] > git rev-parse --show-toplevel [12ms]
+2026-06-12 04:53:57.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2026-06-12 04:53:57.890 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [52ms]
+2026-06-12 04:53:57.890 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-06-12 04:53:57.890 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2026-06-12 04:53:57.944 [info] > git merge-base refs/heads/main refs/remotes/origin/main [41ms]
+2026-06-12 04:53:58.014 [info] > git rev-parse --show-toplevel [92ms]
+2026-06-12 04:53:58.097 [info] > git status -z -uall [63ms]
+2026-06-12 04:53:58.098 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% 511d564c415f7f8b7e140056f19a2887dc74f276...refs/remotes/origin/main -- [139ms]
+2026-06-12 04:53:58.135 [info] > git check-ignore -v -z --stdin [41ms]
+2026-06-12 04:53:58.139 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [81ms]
+2026-06-12 04:53:58.210 [info] > git rev-parse --show-toplevel [92ms]
+2026-06-12 04:53:58.211 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-12 04:53:58.745 [info] > git show --textconv :requirements.txt [60ms]
+2026-06-12 04:53:58.747 [info] > git ls-files --stage -- requirements.txt [29ms]
+2026-06-12 04:53:59.328 [info] > git cat-file -s e2513300dbda3dc0882cdbc90427076a31d222c3 [558ms]
+2026-06-12 04:53:59.562 [info] > git check-ignore -v -z --stdin [8ms]
+2026-06-12 04:53:59.609 [info] > git blame --root --incremental 511d564c415f7f8b7e140056f19a2887dc74f276 -- requirements.txt [21ms]

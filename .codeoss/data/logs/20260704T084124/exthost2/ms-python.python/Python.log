@@ -1,0 +1,38 @@
+2026-07-04 08:42:11.762 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 08:42:11.766 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-04 08:42:11.928 [info] > python -c "import sys;print(sys.executable)"
+2026-07-04 08:42:12.014 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 08:42:52.234 [info] Starting Environment refresh
+2026-07-04 08:42:52.234 [info] Searching for interpreters in posix paths locator
+2026-07-04 08:42:52.243 [info] Searching for pyenv environments
+2026-07-04 08:42:52.244 [info] Searching for conda environments
+2026-07-04 08:42:52.244 [info] Searching for global virtual environments
+2026-07-04 08:42:52.244 [info] Searching for custom virtual environments
+2026-07-04 08:42:52.254 [info] > conda info --json
+2026-07-04 08:42:52.319 [info] pyenv is not installed
+2026-07-04 08:42:52.319 [info] Finished searching for pyenv environments: 84 milliseconds
+2026-07-04 08:42:52.319 [info] Finished searching for custom virtual envs: 82 milliseconds
+2026-07-04 08:42:52.328 [info] Finished searching for global virtual envs: 91 milliseconds
+2026-07-04 08:42:52.343 [info] Python interpreter path: /usr/bin/python
+2026-07-04 08:42:52.344 [info] Found: /bin/python --> /bin/python3.12
+2026-07-04 08:42:52.345 [info] Found: /bin/python3 --> /bin/python3.12
+2026-07-04 08:42:52.346 [info] Found: /bin/python3.12 --> /bin/python3.12
+2026-07-04 08:42:52.359 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2026-07-04 08:42:52.360 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2026-07-04 08:42:52.360 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2026-07-04 08:42:52.403 [info] Finished searching for interpreters in posix paths locator: 163 milliseconds
+2026-07-04 08:42:52.403 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 08:42:52.416 [info] Environments refresh paths discovered (event): 184 milliseconds
+2026-07-04 08:42:52.416 [info] Environments refresh paths discovered: 184 milliseconds
+2026-07-04 08:42:52.464 [info] Environments refresh finished (event): 232 milliseconds
+2026-07-04 08:42:52.470 [info] Environment refresh took 241 milliseconds
+2026-07-04 08:42:54.877 [info] Starting Jedi language server for default.
+2026-07-04 08:44:03.840 [info] CreateEnv Trigger - Workspace not found for /home/psv2482109/.gemini/extensions/vertex/.git/branches/add.py
+2026-07-04 08:44:04.169 [warning] Failed to check if python is an executable [Error: ENOENT: no such file or directory, lstat 'python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: 'python'
+}
+2026-07-04 08:44:04.181 [info] > python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-04 08:44:04.668 [info] Send text to terminal: /usr/bin/python /home/psv2482109/.gemini/extensions/vertex/.git/branches/add.py

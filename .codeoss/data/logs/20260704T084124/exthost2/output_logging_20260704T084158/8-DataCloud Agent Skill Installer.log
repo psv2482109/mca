@@ -1,0 +1,53 @@
+[2026-07-04T08:42:08.283Z] Activating Agent Skill Installer
+[2026-07-04T08:42:08.297Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-07-04T08:42:08.297Z] Profile antigravity-ide is NOT active
+[2026-07-04T08:42:08.297Z] Profile antigravity is NOT active
+[2026-07-04T08:42:08.297Z] Profile jetski is NOT active
+[2026-07-04T08:42:08.297Z] Profile cursor is NOT active
+[2026-07-04T08:42:08.297Z] Profile copilot is NOT active
+[2026-07-04T08:42:08.297Z] Profile gemini-code-assist is active
+[2026-07-04T08:42:12.523Z] Checking skills for Gemini Code Assist in /home/psv2482109/.gemini/skills. Force=false
+[2026-07-04T08:42:12.527Z] No previous manifest found or it was invalid.
+[2026-07-04T08:42:12.536Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills
+[2026-07-04T08:42:12.547Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/accidental-data-loss-prevention
+[2026-07-04T08:42:12.547Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/bigquery-data-transfer-service
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/building-data-apps
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/data-autocleaning
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/dataform-bigquery
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/dbt-bigquery
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/developing-with-bigquery
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/discovering-gcp-data-assets
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/federate-lakehouse-catalog
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcloud-auth-verification
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-composer-troubleshooting
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-data-pipelines
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-dataflow
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-pipeline-orchestration
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-07-04T08:42:12.548Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-spark
+[2026-07-04T08:42:12.549Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/managing-python-dependencies
+[2026-07-04T08:42:12.549Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/ml-best-practices
+[2026-07-04T08:42:12.549Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/notebook-guidance
+[2026-07-04T08:42:12.549Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/skill-repair
+[2026-07-04T08:42:12.605Z] Copied skill accidental-data-loss-prevention to /home/psv2482109/.gemini/skills/accidental-data-loss-prevention
+[2026-07-04T08:42:12.608Z] Copied skill dataform-bigquery to /home/psv2482109/.gemini/skills/dataform-bigquery
+[2026-07-04T08:42:12.608Z] Copied skill discovering-gcp-data-assets to /home/psv2482109/.gemini/skills/discovering-gcp-data-assets
+[2026-07-04T08:42:12.608Z] Copied skill federate-lakehouse-catalog to /home/psv2482109/.gemini/skills/federate-lakehouse-catalog
+[2026-07-04T08:42:12.609Z] Copied skill dbt-bigquery to /home/psv2482109/.gemini/skills/dbt-bigquery
+[2026-07-04T08:42:12.609Z] Copied skill gcp-composer-troubleshooting to /home/psv2482109/.gemini/skills/gcp-composer-troubleshooting
+[2026-07-04T08:42:12.609Z] Copied skill gcloud-auth-verification to /home/psv2482109/.gemini/skills/gcloud-auth-verification
+[2026-07-04T08:42:12.609Z] Copied skill gcp-data-pipelines to /home/psv2482109/.gemini/skills/gcp-data-pipelines
+[2026-07-04T08:42:12.610Z] Copied skill notebook-guidance to /home/psv2482109/.gemini/skills/notebook-guidance
+[2026-07-04T08:42:12.610Z] Copied skill managing-python-dependencies to /home/psv2482109/.gemini/skills/managing-python-dependencies
+[2026-07-04T08:42:12.611Z] Copied skill ml-best-practices to /home/psv2482109/.gemini/skills/ml-best-practices
+[2026-07-04T08:42:12.611Z] Copied skill skill-repair to /home/psv2482109/.gemini/skills/skill-repair
+[2026-07-04T08:42:12.646Z] Copied skill gcp-pipeline-resource-provisioning to /home/psv2482109/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-07-04T08:42:12.647Z] Copied skill data-autocleaning to /home/psv2482109/.gemini/skills/data-autocleaning
+[2026-07-04T08:42:12.647Z] Copied skill bigquery-data-transfer-service to /home/psv2482109/.gemini/skills/bigquery-data-transfer-service
+[2026-07-04T08:42:12.661Z] Copied skill gcp-spark to /home/psv2482109/.gemini/skills/gcp-spark
+[2026-07-04T08:42:12.681Z] Copied skill gcp-pipeline-orchestration to /home/psv2482109/.gemini/skills/gcp-pipeline-orchestration
+[2026-07-04T08:42:12.681Z] Copied skill gcp-dataflow to /home/psv2482109/.gemini/skills/gcp-dataflow
+[2026-07-04T08:42:12.681Z] Copied skill building-data-apps to /home/psv2482109/.gemini/skills/building-data-apps
+[2026-07-04T08:42:12.685Z] Copied skill developing-with-bigquery to /home/psv2482109/.gemini/skills/developing-with-bigquery
+[2026-07-04T08:42:12.685Z] Finished copying skills to /home/psv2482109/.gemini/skills. Updated 20 skills.
+[2026-07-04T08:42:12.699Z] Installation completed. Manifest updated.

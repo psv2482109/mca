@@ -1,0 +1,16 @@
+Starting background process...
+Background process started with PID 3500
+[ERROR] 2026-06-11 10:13:47.555 AM -- Warning: unexpected file /home/psv2482109/.gemini/extensions/extension-enablement.json in extensions directory.
+[INFO] 2026-06-11 10:13:47.558 AM -- Loading extension: vertex (version: 0.2.0)
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.geminiignore, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.aiexclude, continue without it.
+[DEBUG] [MemoryDiscovery] Loading server hierarchical memory for CWD: /google/devshell/editor/code-oss-for-cloud-shell (importFormat: tree)
+[DEBUG] [MemoryDiscovery] Searching for GEMINI.md starting from CWD: /google/devshell/editor/code-oss-for-cloud-shell
+[DEBUG] [MemoryDiscovery] Determined project root: None
+[DEBUG] [MemoryDiscovery] deduplication: keeping /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (dev: 2065, ino: 131119)
+[DEBUG] [MemoryDiscovery] Successfully read and processed imports: /home/psv2482109/.gemini/extensions/vertex/GEMINI.md (Length: 55458)
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.geminiignore, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.aiexclude, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.geminiignore, continue without it.
+Ignore file not found: /google/devshell/editor/code-oss-for-cloud-shell/.aiexclude, continue without it.
+Ripgrep is not available. Falling back to GrepTool.

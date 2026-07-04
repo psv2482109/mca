@@ -1,0 +1,20 @@
+2026-06-10 09:05:13.303 [warning] Dir "/home/psv2482109/.gemini/extensions/vertex/.git/branches/.pixi/envs" is not watchable (directory does not exist)
+2026-06-10 09:05:13.837 [info] Starting Environment refresh
+2026-06-10 09:05:13.837 [info] Starting Environment refresh
+2026-06-10 09:05:13.880 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-10 09:05:13.880 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-10 09:05:13.894 [info] > hatch env show --json
+2026-06-10 09:05:13.894 [info] cwd: .
+2026-06-10 09:05:13.914 [info] > conda info --json
+2026-06-10 09:05:13.924 [info] Environments refresh finished (event): 88 milliseconds
+2026-06-10 09:05:13.924 [info] Environments refresh finished (event): 87 milliseconds
+2026-06-10 09:05:13.924 [info] Environments refresh paths discovered: 88 milliseconds
+2026-06-10 09:05:13.924 [info] Environments refresh paths discovered: 87 milliseconds
+2026-06-10 09:05:13.927 [info] Environment refresh took 92 milliseconds
+2026-06-10 09:05:13.928 [info] Environment refresh took 91 milliseconds
+2026-06-10 09:05:13.938 [info] > pyenv which python
+2026-06-10 09:05:13.938 [info] cwd: .
+2026-06-10 09:05:13.953 [info] Python interpreter path: /bin/python
+2026-06-10 09:05:15.247 [info] Starting Jedi language server for branches.
+2026-06-10 09:05:39.572 [info] CreateEnv Trigger - Skipping for /home/psv2482109/.gemini/extensions/vertex/.git/branches/add.py
+2026-06-10 09:05:40.068 [info] Send text to terminal: /bin/python /home/psv2482109/.gemini/extensions/vertex/.git/branches/add.py

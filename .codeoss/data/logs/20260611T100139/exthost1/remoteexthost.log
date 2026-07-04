@@ -1,0 +1,21 @@
+2026-06-11 10:01:44.393 [info] Extension host with pid 1504 started
+2026-06-11 10:01:44.406 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/-1a6c49dd/vscode.lock': Lock acquired.
+2026-06-11 10:01:44.638 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-06-11 10:01:44.640 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2026-06-11 10:01:44.640 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-11 10:01:45.642 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-06-11 10:01:45.790 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-06-11 10:01:45.791 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-11 10:01:45.937 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.isAuthorized'
+2026-06-11 10:01:46.100 [info] Eager extensions activated
+2026-06-11 10:01:46.101 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-06-11 10:01:46.102 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-11 10:01:46.102 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-06-11 10:01:46.103 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-11 10:01:46.471 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-11 10:01:46.472 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-11 10:01:46.472 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-11 10:01:46.928 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-06-11 10:02:24.097 [info] Extension host terminating: received terminate message from renderer
+2026-06-11 10:02:24.098 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/-1a6c49dd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-06-11 10:02:29.273 [info] Extension host with pid 1504 exiting with code 0

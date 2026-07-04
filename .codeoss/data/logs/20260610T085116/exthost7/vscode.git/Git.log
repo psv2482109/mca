@@ -1,0 +1,84 @@
+2026-06-10 09:04:08.301 [info] [main] Log level: Info
+2026-06-10 09:04:08.301 [info] [main] Validating found git in: "git"
+2026-06-10 09:04:08.301 [info] [main] Using git "2.43.0" from "git"
+2026-06-10 09:04:08.301 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-10 09:04:08.301 [info] > git rev-parse --show-toplevel [3ms]
+2026-06-10 09:04:08.301 [info] fatal: this operation must be run in a work tree
+2026-06-10 09:04:08.301 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-10 09:04:16.723 [info] > git rev-parse --show-toplevel [18ms]
+2026-06-10 09:04:16.723 [info] fatal: this operation must be run in a work tree
+2026-06-10 09:05:12.613 [info] > git rev-parse --show-toplevel [10ms]
+2026-06-10 09:05:12.613 [info] fatal: this operation must be run in a work tree
+2026-06-10 09:05:12.653 [info] > git rev-parse --show-toplevel [4ms]
+2026-06-10 09:05:14.200 [info] > git rev-parse --show-toplevel [10ms]
+2026-06-10 09:05:14.200 [info] fatal: this operation must be run in a work tree
+2026-06-10 09:05:16.008 [info] > git rev-parse --show-toplevel [26ms]
+2026-06-10 09:05:16.008 [info] fatal: this operation must be run in a work tree
+2026-06-10 09:05:25.079 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:05:26.366 [info] > git rev-parse --show-toplevel [1ms]
+2026-06-10 09:05:30.068 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:05:33.331 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:05:38.703 [info] > git rev-parse --show-toplevel [1ms]
+2026-06-10 09:06:04.788 [info] > git rev-parse --show-toplevel [1ms]
+2026-06-10 09:06:16.817 [info] > git rev-parse --show-toplevel [1ms]
+2026-06-10 09:07:30.984 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:16:01.650 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:16:58.029 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:20:22.293 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:20:59.976 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:21:02.258 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-10 09:21:02.275 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [6ms]
+2026-06-10 09:21:02.401 [info] [Model][openRepository] Opened repository (path): /home/psv2482109/.gemini/extensions/vertex/.git/branches
+2026-06-10 09:21:02.401 [info] [Model][openRepository] Opened repository (real path): /home/psv2482109/.gemini/extensions/vertex/.git/branches
+2026-06-10 09:21:02.401 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-10 09:21:02.424 [info] > git config --get commit.template [12ms]
+2026-06-10 09:21:02.425 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-06-10 09:21:02.447 [info] > git status -z -uall [11ms]
+2026-06-10 09:21:02.448 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-06-10 09:21:02.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2026-06-10 09:21:02.490 [info] > git config --get commit.template [14ms]
+2026-06-10 09:21:02.492 [info] > git config --get --local branch.main.vscode-merge-base [3ms]
+2026-06-10 09:21:02.492 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-10 09:21:02.512 [info] > git reflog main --grep-reflog=branch: Created from *. [11ms]
+2026-06-10 09:21:02.525 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2026-06-10 09:21:02.527 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [5ms]
+2026-06-10 09:21:02.527 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2026-06-10 09:21:02.527 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2026-06-10 09:21:02.559 [info] > git status -z -uall [10ms]
+2026-06-10 09:21:02.560 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2026-06-10 09:21:02.570 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [12ms]
+2026-06-10 09:21:02.585 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2026-06-10 09:21:02.596 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% d56e810c3479873c4c37c95289903ad54e71b89a...refs/remotes/origin/main -- [27ms]
+2026-06-10 09:21:02.600 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% d56e810c3479873c4c37c95289903ad54e71b89a...refs/remotes/origin/main -- [5ms]
+2026-06-10 09:21:03.037 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-10 09:21:03.316 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-10 09:21:03.432 [info] > git show --textconv :add.py [11ms]
+2026-06-10 09:21:03.434 [info] > git ls-files --stage -- add.py [3ms]
+2026-06-10 09:21:03.445 [info] > git cat-file -s e349047dc016fd19a0cc7077140419bc69c77c66 [2ms]
+2026-06-10 09:21:03.661 [info] > git blame --root --incremental d56e810c3479873c4c37c95289903ad54e71b89a -- add.py [3ms]
+2026-06-10 09:30:04.017 [info] > git check-ignore -v -z --stdin [3ms]
+2026-06-10 09:30:04.648 [info] > git config --get commit.template [11ms]
+2026-06-10 09:30:04.649 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-06-10 09:30:04.670 [info] > git status -z -uall [11ms]
+2026-06-10 09:30:04.671 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-06-10 09:30:20.135 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-10 09:30:21.971 [info] > git check-ignore -v -z --stdin [3ms]
+2026-06-10 09:30:22.078 [info] > git show --textconv :add/add.py [12ms]
+2026-06-10 09:30:22.091 [info] > git ls-files --stage -- add/add.py [15ms]
+2026-06-10 09:30:22.105 [info] > git hash-object -t tree /dev/null [15ms]
+2026-06-10 09:30:22.105 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/add.py.git?%7B%22path%22%3A%22%2Fhome%2Fpsv2482109%2F.gemini%2Fextensions%2Fvertex%2F.git%2Fbranches%2Fadd%2Fadd.py%22%2C%22ref%22%3A%22%22%7D
+2026-06-10 09:30:22.115 [info] > git hash-object -t tree /dev/null [13ms]
+2026-06-10 09:30:22.116 [warning] [GitFileSystemProvider][stat] File not found - git:/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/add.py.git?%7B%22path%22%3A%22%2Fhome%2Fpsv2482109%2F.gemini%2Fextensions%2Fvertex%2F.git%2Fbranches%2Fadd%2Fadd.py%22%2C%22ref%22%3A%22%22%7D
+2026-06-10 09:30:23.547 [info] > git check-ignore -v -z --stdin [1ms]
+2026-06-10 09:30:23.657 [info] > git show --textconv :add.py [13ms]
+2026-06-10 09:30:23.658 [info] > git ls-files --stage -- add.py [2ms]
+2026-06-10 09:30:23.672 [info] > git cat-file -s e349047dc016fd19a0cc7077140419bc69c77c66 [3ms]
+2026-06-10 09:30:27.599 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-10 09:30:27.711 [info] > git show --textconv :add/add.py [12ms]
+2026-06-10 09:30:27.712 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/add.py.git?%7B%22path%22%3A%22%2Fhome%2Fpsv2482109%2F.gemini%2Fextensions%2Fvertex%2F.git%2Fbranches%2Fadd%2Fadd.py%22%2C%22ref%22%3A%22%22%7D
+2026-06-10 09:30:27.713 [info] > git ls-files --stage -- add/add.py [2ms]
+2026-06-10 09:30:27.713 [warning] [GitFileSystemProvider][stat] File not found - git:/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/add.py.git?%7B%22path%22%3A%22%2Fhome%2Fpsv2482109%2F.gemini%2Fextensions%2Fvertex%2F.git%2Fbranches%2Fadd%2Fadd.py%22%2C%22ref%22%3A%22%22%7D
+2026-06-10 09:30:29.073 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-10 09:30:29.176 [info] > git show --textconv :add.py [10ms]
+2026-06-10 09:30:29.177 [info] > git ls-files --stage -- add.py [1ms]
+2026-06-10 09:30:29.188 [info] > git cat-file -s e349047dc016fd19a0cc7077140419bc69c77c66 [2ms]

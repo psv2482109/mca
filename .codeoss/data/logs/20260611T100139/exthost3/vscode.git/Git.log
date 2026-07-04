@@ -1,0 +1,75 @@
+2026-06-11 10:08:41.127 [info] [main] Log level: Info
+2026-06-11 10:08:41.127 [info] [main] Validating found git in: "git"
+2026-06-11 10:08:41.127 [info] [main] Using git "2.43.0" from "git"
+2026-06-11 10:08:41.127 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-11 10:08:41.127 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-11 10:08:41.127 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [10ms]
+2026-06-11 10:08:41.438 [info] [Model][openRepository] Opened repository (path): /home/psv2482109/.gemini/extensions/vertex/.git/branches/add
+2026-06-11 10:08:41.438 [info] [Model][openRepository] Opened repository (real path): /home/psv2482109/.gemini/extensions/vertex/.git/branches/add
+2026-06-11 10:08:41.438 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-11 10:08:41.440 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-11 10:08:41.450 [info] > git config --get commit.template [3ms]
+2026-06-11 10:08:41.622 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [167ms]
+2026-06-11 10:08:41.653 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:08:41.676 [info] > git rev-parse refs/remotes/origin/main [23ms]
+2026-06-11 10:08:41.699 [info] > git status -z -uall [13ms]
+2026-06-11 10:08:41.699 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-06-11 10:08:41.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [55ms]
+2026-06-11 10:08:41.805 [info] > git config --get commit.template [40ms]
+2026-06-11 10:08:41.821 [info] > git config --get --local branch.main.vscode-merge-base [19ms]
+2026-06-11 10:08:41.846 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [20ms]
+2026-06-11 10:08:41.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-06-11 10:08:41.855 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2026-06-11 10:08:41.865 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:08:41.869 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2026-06-11 10:08:41.884 [info] > git diff --raw --numstat --diff-filter=ADMR -z --find-renames=50% d56e810c3479873c4c37c95289903ad54e71b89a...refs/remotes/origin/main -- [24ms]
+2026-06-11 10:08:43.966 [info] > git status -z -uall [2090ms]
+2026-06-11 10:08:43.966 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2083ms]
+2026-06-11 10:08:44.041 [info] > git check-ignore -v -z --stdin [53ms]
+2026-06-11 10:11:51.313 [info] > git config --get commit.template [3ms]
+2026-06-11 10:11:51.329 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2026-06-11 10:11:51.340 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:11:51.343 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2026-06-11 10:11:51.371 [info] > git status -z -uall [15ms]
+2026-06-11 10:11:51.373 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-06-11 10:11:51.520 [info] > git check-ignore -v -z --stdin [4ms]
+2026-06-11 10:11:54.024 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-11 10:11:55.968 [info] > git check-ignore -v -z --stdin [3ms]
+2026-06-11 10:11:56.744 [info] > git config --get commit.template [3ms]
+2026-06-11 10:11:56.759 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-06-11 10:11:56.770 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:11:56.772 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2026-06-11 10:11:56.800 [info] > git status -z -uall [17ms]
+2026-06-11 10:11:56.801 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-06-11 10:11:57.350 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-11 10:12:01.832 [info] > git config --get commit.template [13ms]
+2026-06-11 10:12:01.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-06-11 10:12:01.848 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:12:01.851 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2026-06-11 10:12:01.883 [info] > git status -z -uall [19ms]
+2026-06-11 10:12:01.884 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-06-11 10:12:06.916 [info] > git config --get commit.template [14ms]
+2026-06-11 10:12:06.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-06-11 10:12:06.928 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:12:06.930 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2026-06-11 10:12:06.957 [info] > git status -z -uall [16ms]
+2026-06-11 10:12:06.958 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-06-11 10:12:11.872 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-11 10:12:11.989 [info] > git config --get commit.template [14ms]
+2026-06-11 10:12:11.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-06-11 10:12:12.002 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:12:12.005 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2026-06-11 10:12:12.027 [info] > git status -z -uall [10ms]
+2026-06-11 10:12:12.029 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-06-11 10:12:20.162 [info] > git config --get commit.template [14ms]
+2026-06-11 10:12:20.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-06-11 10:12:20.173 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:12:20.175 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2026-06-11 10:12:20.199 [info] > git status -z -uall [13ms]
+2026-06-11 10:12:20.200 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-06-11 10:12:25.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-06-11 10:12:25.229 [info] > git config --get commit.template [14ms]
+2026-06-11 10:12:25.238 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.git/refs/remotes/origin/main'
+2026-06-11 10:12:25.240 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2026-06-11 10:12:25.260 [info] > git status -z -uall [9ms]
+2026-06-11 10:12:25.261 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]

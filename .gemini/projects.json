@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "/home/psv2482109": "psv2482109",
+    "/home": "home",
+    "/usr/bin": "bin",
+    "/google/devshell/editor/code-oss-for-cloud-shell": "code-oss-for-cloud-shell",
+    "/home/psv2482109/.gemini/extensions/vertex/.git/branches": "branches",
+    "/home/psv2482109/.gemini/extensions/vertex/.github/workflows": "workflows",
+    "/home/psv2482109/.gemini/extensions/vertex/.git/branches/add": "add"
+  }
+}

@@ -1,0 +1,28 @@
+2026-06-12 04:53:55.503 [warning] Dir "/home/psv2482109/.pixi/envs" is not watchable (directory does not exist)
+2026-06-12 04:53:55.503 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-12 04:53:55.518 [info] Running installed packages checker:  {
+  id: '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.venv/bin/python',
+  sysPrefix: '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.venv',
+  path: '/home/psv2482109/.gemini/extensions/vertex/.git/branches/add/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/requirements.txt
+2026-06-12 04:53:55.518 [info] > ./.gemini/extensions/vertex/.git/branches/add/.venv/bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2026-06-12 04:53:55.555 [info] Python interpreter path: ./.gemini/extensions/vertex/.git/branches/add/.venv/bin/python
+2026-06-12 04:53:56.765 [info] > pyenv which python
+2026-06-12 04:53:56.765 [info] cwd: .
+2026-06-12 04:54:01.834 [info] Starting Jedi language server for psv2482109.
