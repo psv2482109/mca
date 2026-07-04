@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as plt
@@ -16,13 +15,17 @@ if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
 
     st.subheader("Dataset")
-    st.write(df)
+    st.dataframe(df)
 
     columns = df.columns.tolist()
 
     x_column = st.selectbox("Select Independent Variable (X)", columns)
 
     y_column = st.selectbox("Select Dependent Variable (Y)", columns)
+
+    if x_column == y_column:
+        st.warning("Please select different columns for X and Y.")
+        st.stop()
 
     if st.button("Train Model"):
 
@@ -34,23 +37,23 @@ if uploaded_file is not None:
 
         predictions = model.predict(X)
 
-        st.success("Model Trained Successfully!")
+        st.success("✅ Model Trained Successfully!")
 
         st.subheader("Model Parameters")
 
-        st.write(f"Intercept: {model.intercept_:.4f}")
-        st.write(f"Coefficient: {model.coef_[0]:.4f}")
+        st.write(f"**Intercept:** {model.intercept_:.4f}")
+        st.write(f"**Coefficient:** {model.coef_[0]:.4f}")
 
         mse = mean_squared_error(y, predictions)
         r2 = r2_score(y, predictions)
 
-        st.write(f"Mean Squared Error: {mse:.4f}")
-        st.write(f"R² Score: {r2:.4f}")
+        st.write(f"**Mean Squared Error:** {mse:.4f}")
+        st.write(f"**R² Score:** {r2:.4f}")
 
         fig, ax = plt.subplots(figsize=(8,5))
 
-        ax.scatter(X, y, color="blue", label="Actual Data")
-        ax.plot(X, predictions, color="red", linewidth=2, label="Regression Line")
+        ax.scatter(X[x_column], y, color="blue", label="Actual Data")
+        ax.plot(X[x_column], predictions, color="red", linewidth=2, label="Regression Line")
 
         ax.set_xlabel(x_column)
         ax.set_ylabel(y_column)
@@ -62,14 +65,16 @@ if uploaded_file is not None:
 
         new_value = st.number_input(
             f"Enter {x_column}",
-            float(X.min()),
-            float(X.max()),
-            float(X.mean())
+            min_value=float(df[x_column].min()),
+            max_value=float(df[x_column].max()),
+            value=float(df[x_column].mean()),
+            step=0.1
         )
 
-        prediction = model.predict([[new_value]])
+        new_data = pd.DataFrame({x_column: [new_value]})
+        prediction = model.predict(new_data)
 
-        st.success(f"Predicted {y_column}: {prediction[0]:.2f}")
+        st.success(f"🎯 Predicted {y_column}: {prediction[0]:.2f}")
 
 else:
     st.info("Please upload a CSV file.")
