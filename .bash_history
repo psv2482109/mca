@@ -190,3 +190,11 @@ git push
 /usr/bin/python /home/psv2482109/linear.py
 /bin/python /home/psv2482109/add.py
 git init
+git add .
+git branch -M main
+git remote add origin https://github.com/psv2482109/mcalab3.git
+git push -u origin main
+git remote add origin https://github.com/psv2482109/mcalab3.git
+git push -u origin main
+git commit -m "first commit"
+git init
