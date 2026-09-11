@@ -1,0 +1,34 @@
+[2026-09-11T06:51:35.606Z] Activating Agent Skill Installer
+[2026-09-11T06:51:35.614Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-09-11T06:51:35.614Z] Profile antigravity-ide is NOT active
+[2026-09-11T06:51:35.614Z] Profile antigravity is NOT active
+[2026-09-11T06:51:35.614Z] Profile jetski is NOT active
+[2026-09-11T06:51:35.614Z] Profile cursor is NOT active
+[2026-09-11T06:51:35.614Z] Profile copilot is NOT active
+[2026-09-11T06:51:35.614Z] Profile gemini-code-assist is active
+[2026-09-11T06:51:35.614Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-09-11T06:51:35.614Z] Profile antigravity-ide is NOT active
+[2026-09-11T06:51:35.614Z] Profile antigravity is NOT active
+[2026-09-11T06:51:35.614Z] Profile jetski is NOT active
+[2026-09-11T06:51:35.614Z] Profile cursor is NOT active
+[2026-09-11T06:51:35.614Z] Profile copilot is NOT active
+[2026-09-11T06:51:35.614Z] Profile gemini-code-assist is active
+[2026-09-11T06:51:42.983Z] Checking skills for Gemini Code Assist in /home/psv2482109/.gemini/skills. Force=false
+[2026-09-11T06:51:42.991Z] Bundle checksum mismatch. Stored: 265f445c..., Current: 418cbe48...
+[2026-09-11T06:51:42.998Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills
+[2026-09-11T06:51:43.018Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-managed-airflow-recommendations
+[2026-09-11T06:51:43.019Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-managed-airflow-dag-authoring
+[2026-09-11T06:51:43.022Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/google-cloud-storage-basics
+[2026-09-11T06:51:43.040Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+[2026-09-11T06:51:43.068Z] Copied skill gcp-managed-airflow-dag-authoring to /home/psv2482109/.gemini/skills/gcp-managed-airflow-dag-authoring
+[2026-09-11T06:51:43.097Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-spark
+[2026-09-11T06:51:43.588Z] Copied skill enforcing-resource-attribution to /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+[2026-09-11T06:51:43.609Z] Copied skill google-cloud-storage-basics to /home/psv2482109/.gemini/skills/google-cloud-storage-basics
+[2026-09-11T06:51:43.628Z] Copied skill gcp-managed-airflow-recommendations to /home/psv2482109/.gemini/skills/gcp-managed-airflow-recommendations
+[2026-09-11T06:51:43.650Z] Copied skill gcp-spark to /home/psv2482109/.gemini/skills/gcp-spark
+[2026-09-11T06:51:43.655Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcs-security-assessment
+[2026-09-11T06:51:43.771Z] Copied skill gcs-security-assessment to /home/psv2482109/.gemini/skills/gcs-security-assessment
+[2026-09-11T06:51:43.771Z] Finished copying skills to /home/psv2482109/.gemini/skills. Updated 6 skills.
+[2026-09-11T06:51:43.778Z] Installation completed. Manifest updated.
+[2026-09-11T06:51:43.779Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+[2026-09-11T06:51:43.836Z] Hook plugin for gemini-code-assist installed successfully to /home/psv2482109/.gemini/config/plugins/googlecloudtools.datacloud_telemetry

@@ -1,0 +1,59 @@
+2026-08-17 03:31:47.936 [warning] Dir "/home/psv2482109/.pixi/envs" is not watchable (directory does not exist)
+2026-08-17 03:31:48.794 [info] Starting Environment refresh
+2026-08-17 03:31:48.795 [info] Searching for interpreters in posix paths locator
+2026-08-17 03:31:48.804 [info] Searching for pyenv environments
+2026-08-17 03:31:48.804 [info] Searching for conda environments
+2026-08-17 03:31:48.805 [info] Searching for global virtual environments
+2026-08-17 03:31:48.805 [info] Searching for custom virtual environments
+2026-08-17 03:31:50.347 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-08-17 03:31:50.347 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-08-17 03:31:50.361 [info] pyenv is not installed
+2026-08-17 03:31:50.361 [info] Finished searching for pyenv environments: 1565 milliseconds
+2026-08-17 03:31:50.362 [info] Finished searching for custom virtual envs: 1565 milliseconds
+2026-08-17 03:31:50.369 [info] > conda info --json
+2026-08-17 03:31:50.376 [info] > hatch env show --json
+2026-08-17 03:31:50.376 [info] cwd: .
+2026-08-17 03:31:50.460 [info] > pyenv which python
+2026-08-17 03:31:50.460 [info] cwd: .
+2026-08-17 03:31:50.460 [info] Finished searching for global virtual envs: 1663 milliseconds
+2026-08-17 03:31:50.670 [info] Found: /bin/python --> /bin/python3.12
+2026-08-17 03:31:52.741 [info] Found: /bin/python3 --> /bin/python3.12
+2026-08-17 03:31:52.754 [info] Found: /bin/python3.12 --> /bin/python3.12
+2026-08-17 03:31:52.896 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2026-08-17 03:31:52.902 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2026-08-17 03:31:52.907 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2026-08-17 03:31:53.167 [info] Finished searching for interpreters in posix paths locator: 4368 milliseconds
+2026-08-17 03:31:53.167 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-08-17 03:31:53.194 [info] > pyenv which python
+2026-08-17 03:31:53.194 [info] cwd: .
+2026-08-17 03:31:55.461 [error] Unable to find workspace for given file
+2026-08-17 03:31:58.120 [info] > /usr/bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-08-17 03:31:58.120 [info] Environments refresh paths discovered (event): 9328 milliseconds
+2026-08-17 03:31:58.120 [info] Environments refresh paths discovered: 9328 milliseconds
+2026-08-17 03:31:58.286 [info] Environments refresh finished (event): 9494 milliseconds
+2026-08-17 03:31:58.302 [info] Environment refresh took 9510 milliseconds
+2026-08-17 03:31:58.323 [info] Python interpreter path: /bin/python
+2026-08-17 03:32:01.448 [info] Starting Jedi language server for psv2482109.
+2026-08-17 03:33:07.764 [info] Send text to terminal: /bin/python /home/psv2482109/add.py
+2026-08-17 03:34:45.880 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/psv2482109/requirements.txt
+2026-08-17 03:34:45.880 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt

@@ -61,3 +61,10 @@
 2026-07-04 10:16:22.572 [info] SparkMonitorPlugin: Wrote filter config file with value: true
 2026-07-04 10:16:22.848 [info] Executing: gcloud auth application-default print-access-token
 2026-07-04 10:16:24.679 [info] Verified that user is logged in to gcloud CLI and ADC.
+2026-07-04 10:58:58.287 [info] Deactivating bigquery
+2026-07-04 10:58:58.287 [info] Deactivating GCS
+2026-07-04 10:58:58.287 [info] Deactivating Databases
+2026-07-04 10:58:58.287 [info] Deactivating Catalog Feature
+2026-07-04 10:58:58.287 [info] Deactivating dataproc
+2026-07-04 10:58:58.287 [info] SparkMonitorPlugin: Deactivating...
+2026-07-04 10:58:58.287 [info] Deactivating settings

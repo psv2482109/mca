@@ -1,0 +1,90 @@
+2026-07-22 07:21:38.157 [info] Extension host with pid 1515 started
+2026-07-22 07:21:38.180 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/-4c192ccc/vscode.lock': Lock acquired.
+2026-07-22 07:21:38.499 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-07-22 07:21:38.501 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-07-22 07:21:38.737 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-07-22 07:21:38.748 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2026-07-22 07:21:39.036 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2026-07-22 07:21:39.049 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-07-22 07:21:39.050 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-07-22 07:21:40.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 394
+2026-07-22 07:21:41.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 394
+2026-07-22 07:21:45.740 [info] Not activating extension 'ms-python.python': Timed out while searching for 'workspaceContains' pattern **/pylock.*.toml
+2026-07-22 07:21:45.740 [info] Not activating extension 'redhat.java': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-07-22 07:21:45.741 [info] Not activating extension 'vscjava.vscode-java-dependency': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-07-22 07:21:45.741 [info] Not activating extension 'vscjava.vscode-java-test': Timed out while searching for 'workspaceContains' pattern */pom.xml,*/build.gradle,*/settings.gradle,*/build.gradle.kts,*/settings.gradle.kts,*/.classpath
+2026-07-22 07:21:45.741 [info] Not activating extension 'vscjava.vscode-maven': Timed out while searching for 'workspaceContains' pattern **/pom.xml
+2026-07-22 07:21:48.742 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:48.743 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:48.743 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-07-22 07:21:48.744 [info] ExtensionService#_doActivateExtension googlecloudtools.datacloud, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-07-22 07:21:48.744 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:48.744 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:48.745 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:52.184 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-07-22 07:21:52.188 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-07-22 07:21:52.188 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-07-22 07:21:53.945 [info] Eager extensions activated
+2026-07-22 07:21:54.731 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-07-22 07:21:57.298 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-07-22 07:21:57.683 [warning] [Decorations] CAPPING events from decorations provider vscode.git 405
+2026-07-22 07:22:03.107 [warning] [Decorations] CAPPING events from decorations provider vscode.git 406
+2026-07-22 07:30:23.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 424
+2026-07-22 07:30:28.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:30:33.356 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:30:38.464 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:30:44.915 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:30:50.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:30:55.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:00.210 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:05.311 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:10.413 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:15.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:20.608 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:25.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:30.826 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:35.927 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:41.027 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:46.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:31:51.235 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:32:08.095 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:32:13.189 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:32:52.779 [warning] [Decorations] CAPPING events from decorations provider vscode.git 410
+2026-07-22 07:32:55.072 [info] Extension host terminating: received terminate message from renderer
+2026-07-22 07:32:55.072 [info] Lock '/home/psv2482109/.codeoss/data/User/workspaceStorage/-4c192ccc/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-07-22 07:32:55.231 [error] Error: Channel has been closed
+    at r (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2616)
+    at Object.append (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2713)
+    at s.append (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/common/packages/logging/buffered_output_logger.ts:143:18)
+    at Socket.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/node_modules/vscode-languageclient/lib/node/main.js:430:80)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2026-07-22 07:32:55.280 [error] Error: Channel has been closed
+    at r (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2616)
+    at Object.append (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2713)
+    at s.append (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/common/packages/logging/buffered_output_logger.ts:143:18)
+    at Socket.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/geminicodeassist/dist/webpack:/node_modules/vscode-languageclient/lib/node/main.js:430:80)
+    at Socket.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Socket.Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2026-07-22 07:32:55.288 [error] Error: Channel has been closed
+    at n (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:3001)
+    at Object.info (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:3346)
+    at T.info (/google/devshell/editor/code-oss-for-cloud-shell/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45267)
+    at ChildProcess.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:606637)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-07-22 07:32:55.329 [error] Error: Channel has been closed
+    at r (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2616)
+    at Object.appendLine (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:123:2755)
+    at P.logOutputMessage (/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/out/client/extension.js:2:2100381)
+    at P.error (/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/out/client/extension.js:2:2100272)
+    at ChildProcess.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/out/client/extension.js:2:2317508)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2026-07-22 07:32:55.523 [info] Extension host with pid 1515 exiting with code 0

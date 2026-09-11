@@ -1,0 +1,10 @@
+[Error - 9:53:18 AM] (node:2654) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/.mcp.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/.mcp.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/.release-please-manifest.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/.release-please-manifest.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/gemini-extension.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/gemini-extension.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/package-lock.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/package-lock.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/package.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/package.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/tsconfig.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/mcp/tsconfig.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/package.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/package.json'
+[Error - 9:53:24 AM] Failed to load entities from /home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/release-please-config.json: Error: ENOENT: no such file or directory, open '/home/psv2482109/.npm/_cacache/tmp/git-cloneVNZoHb/release-please-config.json'

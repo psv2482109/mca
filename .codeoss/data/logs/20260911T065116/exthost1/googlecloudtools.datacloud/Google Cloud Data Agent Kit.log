@@ -1,0 +1,92 @@
+2026-09-11 06:51:40.461 [info] [OnboardingStatus] Updating context key 'gDataCloud.alreadyOnboarded' to false
+2026-09-11 06:51:40.462 [info] Getting gcloud config internal...
+2026-09-11 06:51:40.462 [info] Checking for gcloud binary path...
+2026-09-11 06:51:40.462 [info] Executing: which gcloud
+2026-09-11 06:51:40.462 [info] Getting gcloud config internal...
+2026-09-11 06:51:40.462 [info] Checking for gcloud binary path...
+2026-09-11 06:51:40.462 [info] Executing: which gcloud
+2026-09-11 06:51:40.462 [info] Checking for gcloud binary path...
+2026-09-11 06:51:40.462 [info] Executing: which gcloud
+2026-09-11 06:51:40.462 [info] hasGcloud: true
+2026-09-11 06:51:40.462 [info] Syncing gcloud settings to extension
+2026-09-11 06:51:40.462 [info] hasGcloud: true
+2026-09-11 06:51:40.462 [info] Getting gcloud config internal...
+2026-09-11 06:51:40.462 [info] [OnboardingPlugin] Cloud Code extension or Cloud Shell/Workstations detected. Skipping automatic onboarding.
+2026-09-11 06:51:40.462 [info] Executing: gcloud config config-helper --format json
+2026-09-11 06:51:40.462 [info] Activating bigquery
+2026-09-11 06:51:40.462 [info] ConversationalAnalyticsPlugin activated
+2026-09-11 06:51:40.462 [info] ConversationalAnalyticsPlugin: activate finished
+2026-09-11 06:51:40.462 [info] Activating Databases
+2026-09-11 06:51:40.462 [info] Activating Catalog Feature
+2026-09-11 06:51:40.462 [info] Registering Dataplex Project adapter unconditionally.
+2026-09-11 06:51:40.462 [info] Activating dataplex universal catalog
+2026-09-11 06:51:40.462 [info] Activating dataproc
+2026-09-11 06:51:40.462 [info] Activating spark resource tree
+2026-09-11 06:51:40.462 [info] SparkMonitorPlugin: Activating...
+2026-09-11 06:51:40.462 [info] SparkMonitorPlugin: State change - experiment: true, setting: true, overall: true
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.604Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.604Z] Profile antigravity-ide is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile antigravity is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile jetski is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile cursor is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile copilot is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile gemini-code-assist is active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile antigravity-ide is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile antigravity is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile jetski is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile cursor is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile copilot is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.605Z] Profile gemini-code-assist is active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.606Z] Activating Agent Skill Installer
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile antigravity-ide is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile antigravity is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile jetski is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile cursor is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile copilot is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile gemini-code-assist is active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] appName: Code OSS for Cloud Shell, ideType: 6
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile antigravity-ide is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile antigravity is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile jetski is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile cursor is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile copilot is NOT active
+2026-09-11 06:51:40.462 [info] [2026-09-11T06:51:35.614Z] Profile gemini-code-assist is active
+2026-09-11 06:51:40.462 [info] Executing: gcloud config config-helper --format json
+2026-09-11 06:51:40.462 [info] Executing: gcloud config config-helper --format json
+2026-09-11 06:51:40.462 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-notebooks-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] [MCP Registry] Server 'notebooks' listening on IPC socket: /tmp/datacloud-mcp-notebooks-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-dataAgentKit-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] [MCP Registry] Server 'dataAgentKit' listening on IPC socket: /tmp/datacloud-mcp-dataAgentKit-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] [MCP Registry] Listening on socket: /tmp/datacloud-mcp-visualization-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] [MCP Registry] Server 'visualization' listening on IPC socket: /tmp/datacloud-mcp-visualization-codeossforcloudshell.sock
+2026-09-11 06:51:40.462 [info] MCP config plugin: MCP config key: mcpServers
+2026-09-11 06:51:40.462 [info] MCP config plugin: ideType: 6
+2026-09-11 06:51:40.462 [info] Checking if identities match...Fetching ADC account name...
+2026-09-11 06:51:40.553 [info] MCP config plugin: MCP config key: mcpServers
+2026-09-11 06:51:41.105 [info] SparkMonitorPlugin: Wrote filter config file with value: true
+2026-09-11 06:51:42.732 [info] Identity match check: {"gcloudAccountEmpty":false,"vscodeAccountEmpty":false,"gcloudAdcAccountEmpty":false,"gcloudAccountMatchesVscode":true,"gcloudAdcAccountMatchesVscode":true}
+2026-09-11 06:51:42.984 [info] [2026-09-11T06:51:42.983Z] Checking skills for Gemini Code Assist in /home/psv2482109/.gemini/skills. Force=false
+2026-09-11 06:51:42.991 [info] [2026-09-11T06:51:42.991Z] Bundle checksum mismatch. Stored: 265f445c..., Current: 418cbe48...
+2026-09-11 06:51:42.998 [info] [2026-09-11T06:51:42.998Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills
+2026-09-11 06:51:43.018 [info] [2026-09-11T06:51:43.018Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-managed-airflow-recommendations
+2026-09-11 06:51:43.019 [info] [2026-09-11T06:51:43.019Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-managed-airflow-dag-authoring
+2026-09-11 06:51:43.022 [info] [2026-09-11T06:51:43.022Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/google-cloud-storage-basics
+2026-09-11 06:51:43.040 [info] [2026-09-11T06:51:43.040Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+2026-09-11 06:51:43.068 [info] [2026-09-11T06:51:43.068Z] Copied skill gcp-managed-airflow-dag-authoring to /home/psv2482109/.gemini/skills/gcp-managed-airflow-dag-authoring
+2026-09-11 06:51:43.097 [info] [2026-09-11T06:51:43.097Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-spark
+2026-09-11 06:51:43.588 [info] [2026-09-11T06:51:43.588Z] Copied skill enforcing-resource-attribution to /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+2026-09-11 06:51:43.609 [info] [2026-09-11T06:51:43.609Z] Copied skill google-cloud-storage-basics to /home/psv2482109/.gemini/skills/google-cloud-storage-basics
+2026-09-11 06:51:43.628 [info] [2026-09-11T06:51:43.628Z] Copied skill gcp-managed-airflow-recommendations to /home/psv2482109/.gemini/skills/gcp-managed-airflow-recommendations
+2026-09-11 06:51:43.650 [info] [2026-09-11T06:51:43.650Z] Copied skill gcp-spark to /home/psv2482109/.gemini/skills/gcp-spark
+2026-09-11 06:51:43.655 [info] [2026-09-11T06:51:43.655Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcs-security-assessment
+2026-09-11 06:51:43.771 [info] [2026-09-11T06:51:43.771Z] Copied skill gcs-security-assessment to /home/psv2482109/.gemini/skills/gcs-security-assessment
+2026-09-11 06:51:43.771 [info] [2026-09-11T06:51:43.771Z] Finished copying skills to /home/psv2482109/.gemini/skills. Updated 6 skills.
+2026-09-11 06:51:43.778 [info] [2026-09-11T06:51:43.778Z] Installation completed. Manifest updated.
+2026-09-11 06:51:43.782 [info] [2026-09-11T06:51:43.779Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+2026-09-11 06:51:43.836 [info] [2026-09-11T06:51:43.836Z] Hook plugin for gemini-code-assist installed successfully to /home/psv2482109/.gemini/config/plugins/googlecloudtools.datacloud_telemetry
+2026-09-11 06:51:50.269 [info] MCP config plugin: ideType: 6
+2026-09-11 06:51:50.269 [info] SparkMonitorPlugin: State change - experiment: true, setting: true, overall: true
+2026-09-11 06:51:50.270 [info] MCP config plugin: MCP config key: mcpServers
+2026-09-11 06:51:50.469 [info] SparkMonitorPlugin: Wrote filter config file with value: true

@@ -1,0 +1,36 @@
+[2026-08-17T03:31:53.699Z] Activating Agent Skill Installer
+[2026-08-17T03:31:53.710Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-08-17T03:31:53.710Z] Profile antigravity-ide is NOT active
+[2026-08-17T03:31:53.710Z] Profile antigravity is NOT active
+[2026-08-17T03:31:53.710Z] Profile jetski is NOT active
+[2026-08-17T03:31:53.710Z] Profile cursor is NOT active
+[2026-08-17T03:31:53.710Z] Profile copilot is NOT active
+[2026-08-17T03:31:53.710Z] Profile gemini-code-assist is active
+[2026-08-17T03:31:58.542Z] Checking skills for Gemini Code Assist in /home/psv2482109/.gemini/skills. Force=false
+[2026-08-17T03:31:58.545Z] Bundle checksum mismatch. Stored: 5bdb3c4a..., Current: 265f445c...
+[2026-08-17T03:31:58.547Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills
+[2026-08-17T03:31:58.561Z] Pruned managed skill: developing-with-bigquery
+[2026-08-17T03:31:58.572Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/bigquery-ai-ml
+[2026-08-17T03:31:58.572Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/bigquery-bigframes
+[2026-08-17T03:31:58.572Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/bigquery-graph
+[2026-08-17T03:31:58.572Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/bigquery-sql
+[2026-08-17T03:31:58.573Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+[2026-08-17T03:31:58.573Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-managed-airflow-migrations
+[2026-08-17T03:31:58.574Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcs-security-assessment
+[2026-08-17T03:31:58.585Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/dbt-bigquery
+[2026-08-17T03:31:58.588Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/dataform-bigquery
+[2026-08-17T03:31:58.622Z] Copied skill enforcing-resource-attribution to /home/psv2482109/.gemini/skills/enforcing-resource-attribution
+[2026-08-17T03:31:58.628Z] Copied skill bigquery-sql to /home/psv2482109/.gemini/skills/bigquery-sql
+[2026-08-17T03:31:58.631Z] Ensured destination directory exists: /home/psv2482109/.gemini/skills/gcp-pipeline-orchestration
+[2026-08-17T03:31:58.646Z] Copied skill dbt-bigquery to /home/psv2482109/.gemini/skills/dbt-bigquery
+[2026-08-17T03:31:58.646Z] Copied skill dataform-bigquery to /home/psv2482109/.gemini/skills/dataform-bigquery
+[2026-08-17T03:31:58.647Z] Copied skill gcp-managed-airflow-migrations to /home/psv2482109/.gemini/skills/gcp-managed-airflow-migrations
+[2026-08-17T03:31:58.649Z] Copied skill bigquery-bigframes to /home/psv2482109/.gemini/skills/bigquery-bigframes
+[2026-08-17T03:31:58.665Z] Copied skill bigquery-graph to /home/psv2482109/.gemini/skills/bigquery-graph
+[2026-08-17T03:31:58.672Z] Copied skill bigquery-ai-ml to /home/psv2482109/.gemini/skills/bigquery-ai-ml
+[2026-08-17T03:31:58.688Z] Copied skill gcs-security-assessment to /home/psv2482109/.gemini/skills/gcs-security-assessment
+[2026-08-17T03:31:58.692Z] Copied skill gcp-pipeline-orchestration to /home/psv2482109/.gemini/skills/gcp-pipeline-orchestration
+[2026-08-17T03:31:58.693Z] Finished copying skills to /home/psv2482109/.gemini/skills. Updated 10 skills.
+[2026-08-17T03:31:58.699Z] Installation completed. Manifest updated.
+[2026-08-17T03:31:58.701Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+[2026-08-17T03:31:58.711Z] Hook plugin for gemini-code-assist installed successfully to /home/psv2482109/.gemini/config/plugins/googlecloudtools.datacloud_telemetry

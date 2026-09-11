@@ -169,3 +169,24 @@ git branch -M main
 git commit -m "first commit"
 git remote set-url origin https://github.com/psv2482109/mca.git
 git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote -v
+git remote set-url origin https://github.com/psv2482109/mca.git
+git push -u origin main
+git add requirements.txt
+git commit -m "Add scikit-learn dependency"git commit -m "Add scikit-learn dependency"git commit -m "Add scikit-learn dependency"git commit -m "Add scikit-learn dependency"
+git commit -m "Add scikit-learn dependency"
+git push
+git add requirements.txt
+git commit -m "Update requirements"
+git push
+/usr/bin/python /home/psv2482109/linear.py
+git add linear.py
+git commit -m "Update requirements"
+git push
+/bin/python /home/psv2482109/linear.py
+/usr/bin/python /home/psv2482109/linear.py
+/bin/python /home/psv2482109/add.py
+git init

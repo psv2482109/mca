@@ -237,3 +237,11 @@
 2026-07-04 10:16:05.061 [info] [127.0.0.1][4b6c4acc][ExtensionHostConnection] <14073> Extension Host Process exited with code: 0, signal: null.
 2026-07-04 10:18:03.378 [info] [127.0.0.1][e05ce8f3][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
 2026-07-04 10:18:03.834 [info] [127.0.0.1][6320fabe][ExtensionHostConnection] <8429> Extension Host Process exited with code: 0, signal: null.
+2026-07-04 10:32:28.257 [info] [127.0.0.1][64c04d63][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2026-07-04 10:32:37.521 [info] [127.0.0.1][64c04d63][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2026-07-04 10:32:37.523 [info] [127.0.0.1][229da5a4][ExtensionHostConnection] The client has reconnected.
+2026-07-04 10:32:38.025 [info] [127.0.0.1][64c04d63][ManagementConnection] The client has reconnected.
+2026-07-04 10:33:24.761 [info] [127.0.0.1][64c04d63][ManagementConnection] The client has reconnected.
+2026-07-04 10:33:25.452 [info] [127.0.0.1][229da5a4][ExtensionHostConnection] The client has reconnected.
+2026-07-04 10:58:57.149 [info] [127.0.0.1][64c04d63][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-07-04 10:58:59.405 [info] [127.0.0.1][229da5a4][ExtensionHostConnection] <15111> Extension Host Process exited with code: 0, signal: null.
